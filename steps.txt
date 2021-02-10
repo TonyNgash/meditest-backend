@@ -1,0 +1,40 @@
+Create laravel project
+Create database
+Edit .env file
+Create Model(Service)
+    Add table name
+    Add fillables
+Create Migration(create_services_table)
+    Add Columns
+Migrate
+Create Factory(ServiceFactory)
+Edit DatabaseSeeder
+Seed
+Create Controller(ServiceController) with resource flag -r
+    index
+    store
+    show
+    update
+    destroy
+Create Resource(ServiceResource)
+Create api routes
+
+RESET PASSWORD api
+Create three routes
+    - to send the request link to the email given
+    - to validate the request link
+    - to setup the new password
+Create corresponding functions in the Controller
+Setup email notification handler
+
+
+2pm
+slot time = t1 + t2 + t3
+time to get three = 20mins
+test time = 15mins
+go back time = 20mins
+no of phlebos = 4
+
+
+
+
